@@ -1,0 +1,1 @@
+export const CHANGE_BREADCRUMB_LIST = 'breadcrumb/CHANGE_BREADCRUMB_LIST';

@@ -1,0 +1,1 @@
+export const CHANGE_LOADING = 'home/CHANGE_LOADING';

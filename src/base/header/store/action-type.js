@@ -1,0 +1,1 @@
+export const HEADER_MENULIST = 'header/HEADER_MENULIST';
